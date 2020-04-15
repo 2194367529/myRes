@@ -1,0 +1,9 @@
+
+\
+java:S1128":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ8Œ¨Îö–.
+†
+java:S14882"dImmediately return this expression instead of assigning it to the temporary variable "cacheManager".(¿èÚÃşÿÿÿÿ8Œ¨Îö–.
+]
+java:S1874&";Remove this use of "enableDefaultTyping"; it is deprecated.(ßà„ìüÿÿÿÿ8Œ¨Îö–.
+p
+java:S1128"NRemove this unused import 'org.springframework.data.redis.core.RedisTemplate'.(–ª¡Çøÿÿÿÿ8Œ¨Îö–.

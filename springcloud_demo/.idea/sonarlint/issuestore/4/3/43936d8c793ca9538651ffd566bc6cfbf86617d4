@@ -1,0 +1,17 @@
+
+G
+java:S1444",Make this "public static SECRET" field final(ó¸£Èþÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŸÛäìûÿÿÿÿ
+m
+java:S1104"RMake SECRET a static final constant or non-public and provide accessors if needed.(ó¸£Èþÿÿÿÿ
+Y
+java:S1128"CRemove this unused import 'org.apache.commons.lang.time.DateUtils'.(éÑ§Œ
+A
+java:S1128
+"+Remove this unused import 'java.util.Date'.(¸…¼ü
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+l
+java:S3008"QRename this field "SECRET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¸£Èþÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ŸÛäìûÿÿÿÿ

@@ -1,0 +1,16 @@
+
+X
+java:S1128";Remove this unused import 'com.auth0.jwt.interfaces.Claim'.(ƒ›ò®8ÈûÚ—.
+i
+java:S18583"G"getRequestURI" returns a string, there's no need to call "toString()".(ĞÆë‚øÿÿÿÿ8ÖşËÚ—.
+G
+java:S26293"%Invoke method(s) only conditionally. (ĞÆë‚øÿÿÿÿ8ÖşËÚ—.
+V
+java:S1128"9Remove this unused import 'gyl.servicezuul.util.jwtUtil'.(Å×ˆ8ÈûÚ—.
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ÈûÚ—.
+c
+java:S1126("AReplace this if-then-else statement by a single return statement.(‡›ëşÿÿÿÿ8úÿÄÚ—.
+V
+java:S35160"9Refactor this method to not always return the same value.(“’è¨8¨¡÷Å—.
+E	java:S108<")Either remove or fill this block of code.(”ı¾8¨¡÷Å—.
